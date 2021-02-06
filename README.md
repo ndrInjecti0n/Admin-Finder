@@ -1,6 +1,6 @@
-#**Admin-Finder**
+# **Admin-Finder**
 
-#Installation:
+# Installation:
 
 git clone https://github.com/ndrInjecti0n/Admin-Finder.git
 
